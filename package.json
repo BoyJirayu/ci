@@ -1,7 +1,7 @@
 {
   "name": "ci",
   "version": "1.0.0",
-  "description": "",
+  "description": "rr",
   "main": "test.js",
   "scripts": {
     "test": "mocha test.js"
